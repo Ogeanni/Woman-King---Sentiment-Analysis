@@ -1,6 +1,6 @@
 # The Woman King 
 ### A Twitter Sentiment Analysis by Ogechi Maryann Okafor
-Link to this project article [Article]()
+Link to this project article [Article](https://medium.com/@ogeann/the-woman-king-a-twitter-sentiment-analysis-a6f5f843e7c0)
 
 The movie featured intriguing actors including Viola Davis, Lasha Lynch, John Boyega, Thuso Mbedu, Sheila Atim, Hero Fiennes Tiffin, Jimmy Odukoya, and Masali Baduza just to mention a few
 
